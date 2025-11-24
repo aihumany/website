@@ -27,7 +27,7 @@ function App() {
             <span className="text-xl font-bold tracking-wider">AIHUMANY</span>
           </div>
           <a
-            href="https://calendly.com/aihumany-autoamtion/15-min-discovery-call-aihumany"
+            href="https://calendly.com/aihumany-automation/discovery"
             target="_blank"
             rel="noopener noreferrer"
             className="px-6 py-2.5 bg-white text-black rounded-full font-medium hover:bg-gray-200 transition-all duration-300 hover:scale-105 inline-block"
@@ -153,7 +153,7 @@ function App() {
             TRANSFORM YOUR OPERATIONS WITH INTELLIGENT SYSTEMS BUILT FOR THE FUTURE.
           </p>
           <a
-            href="https://calendly.com/aihumany-autoamtion/15-min-discovery-call-aihumany"
+            href="https://calendly.com/aihumany-automation/discovery"
             target="_blank"
             rel="noopener noreferrer"
             className="group px-10 py-5 bg-white text-black rounded-full text-xl font-medium hover:bg-gray-200 transition-all duration-300 hover:scale-105 inline-flex items-center gap-3"
